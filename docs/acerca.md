@@ -8,7 +8,9 @@ date: 2025-01-01
 Breve presentación personal, intereses y objetivos para este curso.
 
 ## Habilidades
-- Lenguajes / herramientas relevantes
+- Python
+- PowerBI
 
 ## Contacto
-- Email institucional
+- Email institucional: avril.atahides@correo.ucu.edu.uy
+- [Github](https://github.com/AvrilABG)
