@@ -6,8 +6,7 @@ theme:
     - navigation.sections
     - navigation.indexes
   icon:
-    logo:
-      - material/flower-tulip
+    logo: material/flower-tulip
 plugins:
   - search
   - awesome-pages
