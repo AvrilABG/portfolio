@@ -5,6 +5,10 @@ theme:
   features:
     - navigation.sections
     - navigation.indexes
+  palette:
+    - scheme: slate
+      primary: blue  
+      accent: lime   
   icon:
     logo: material/flower-tulip
 plugins:
