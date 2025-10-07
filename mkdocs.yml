@@ -7,8 +7,8 @@ theme:
     - navigation.indexes
   palette:
     - scheme: slate
-      primary: indigo
-      accent: blue
+      primary: "#1A237E"
+      accent: "#4FC3F7"
   icon:
     logo: material/flower-tulip
 plugins:
