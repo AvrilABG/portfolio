@@ -1,3 +1,7 @@
-title: idd
-collapse: false
-order: asc
+nav:
+  - Introducción: index.md
+  - Unidad 1: ut1/01- Iris dataset.md
+title: Ingeniería de Datos
+arrange:
+  - index.md
+  - ut1/01- Iris dataset.md
