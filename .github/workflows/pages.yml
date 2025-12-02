@@ -23,7 +23,24 @@ jobs:
         with:
           python-version: '3.x'
       - run: pip install -r requirements.txt
-      - run: mkdocs build --strict
+      
+      # Construir sitio principal
+      - name: Build main site
+        run: mkdocs build --strict
+      
+      # Construir sitio de Ingeniería de Datos
+      - name: Build IDD site
+        run: |
+          cd idd
+          mkdocs build --strict
+          cd ..
+      
+      # Copiar sitio de IDD dentro del sitio principal
+      - name: Copy IDD site
+        run: |
+          mkdir -p site/idd
+          cp -r idd/site/* site/idd/
+      
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

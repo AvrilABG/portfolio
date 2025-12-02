@@ -1,4 +1,5 @@
 site_name: Ingeniería de Datos
+site_url: https://avrilabg.github.io/portfolio/idd/
 docs_dir: docs
 
 theme:
@@ -11,7 +12,28 @@ theme:
   features:
     - navigation.sections
     - navigation.indexes
+  icon:
+    logo: material/database
 
 plugins: 
   - search
   - awesome-pages
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.emoji
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_css:
+  - css/custom.css

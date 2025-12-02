@@ -17,7 +17,6 @@ plugins:
   - git-revision-date-localized:
       fallback_to_build_date: true
   - glightbox
-  - monorepo
 markdown_extensions:
   - admonition
   - attr_list
@@ -35,9 +34,8 @@ extra_css:
   - css/extra.css
 
 nav:
-  - Pagina Principal:
-    - Inicio: index.md
-    - 'Acerca de mí': acerca.md
-    - Portfolio: portfolio/index.md
-    - Recursos: recursos.md
-  - 'Ingeniería de Datos': '!include ./idd/mkdocs.yml'
+  - Inicio: index.md
+  - 'Acerca de mí': acerca.md
+  - Portfolio: portfolio/index.md
+  - Recursos: recursos.md
+  - 'Ingeniería de Datos ↗': https://avrilabg.github.io/portfolio/idd/
