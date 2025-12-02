@@ -3,6 +3,7 @@
 # Nota: El título principal del navegador seguirá siendo el del archivo global
 # Pero puedes definir aquí el tema y la paleta.
 site_name: Ingeniería de Datos
+site_url: https://avrilabg.github.io/portfolio/ingenieria-de-datos/
 
 theme:
   name: material
@@ -16,6 +17,7 @@ theme:
     features:
       - navigation.sections
       - navigation.indexes
+      - navegation.expand
 
 plugins: 
 - awesome-pages
