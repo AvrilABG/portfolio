@@ -2,6 +2,7 @@
 
 # Nota: El título principal del navegador seguirá siendo el del archivo global
 # Pero puedes definir aquí el tema y la paleta.
+site_name: Ingeniería de Datos
 
 theme:
   name: material
