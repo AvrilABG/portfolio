@@ -14,7 +14,6 @@ theme:
   features:
     - navigation.sections
     - navigation.indexes
-    - navigation.expand
 
 plugins: 
 - awesome-pages
