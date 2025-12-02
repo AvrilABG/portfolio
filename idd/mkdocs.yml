@@ -1,0 +1,17 @@
+# Archivo: data-eng/mkdocs.yml
+
+# Nota: El título principal del navegador seguirá siendo el del archivo global
+# Pero puedes definir aquí el tema y la paleta.
+
+theme:
+  name: material
+  palette:
+    # 1. ESQUEMA DE COLOR: 'light' o 'slate' (oscuro)
+    scheme: slate
+    # 2. COLOR PRIMARIO (Header, barra lateral)
+    primary: deep orange
+    # 3. COLOR ACCENTO (Links, botones)
+    accent: light green
+
+plugins: 
+- awesome-pages

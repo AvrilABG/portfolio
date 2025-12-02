@@ -3,7 +3,7 @@ nav:
   - Acerca de mí: acerca.md
   - Portfolio: portfolio/
   - Recursos: recursos.md
-  - Ingeniería de datos: idd/
+  - Ingeniería de Datos: !include data-eng/mkdocs.yml
 title: Inicio
 arrange:
   - index.md
