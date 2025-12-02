@@ -13,6 +13,9 @@ theme:
     primary: deep orange
     # 3. COLOR ACCENTO (Links, botones)
     accent: light green
+    features:
+      - navigation.sections
+      - navigation.indexes
 
 plugins: 
 - awesome-pages
