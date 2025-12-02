@@ -35,5 +35,5 @@ extra_css:
   - css/extra.css
 
 nav:
-  - Páginas Principales: . 
+  - Páginas Principales: docs
   - 'Ingeniería de Datos': "!include ./idd/mkdocs.yml"
