@@ -39,4 +39,5 @@ nav:
   - 'Acerca de mí': acerca.md
   - Portfolio: portfolio/index.md
   - Recursos: recursos.md
-  - 'Ingeniería de Datos': "!include ./idd/mkdocs.yml"
+  - 'Ingeniería de Datos':
+      file: idd/mkdocs.yml
