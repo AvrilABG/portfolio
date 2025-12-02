@@ -1,33 +1,4 @@
 /* Personalización de colores para Ingeniería de Datos */
-
-/* Cambiar color primario a deep orange */
-[data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #FF5722;
-  --md-primary-fg-color--light: #FF7043;
-  --md-primary-fg-color--dark: #E64A19;
-  --md-accent-fg-color: #8BC34A;
-  --md-accent-fg-color--transparent: rgba(139, 195, 74, 0.1);
-}
-
-/* Header con color naranja */
 .md-header {
-  background-color: #FF5722 !important;
-}
-
-/* Links y elementos interactivos en verde */
-.md-typeset a {
-  color: #8BC34A;
-}
-
-.md-typeset a:hover {
-  color: #9CCC65;
-}
-
-/* Botones y elementos de navegación */
-.md-nav__link--active {
-  color: #FF5722 !important;
-}
-
-.md-nav__link:hover {
-  color: #FF5722 !important;
+  background-color: #2511a8;
 }

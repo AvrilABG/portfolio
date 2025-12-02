@@ -1,7 +1,7 @@
-nav:
-  - Introducción: index.md
-  - Unidad 1: ut1/01- Iris dataset.md
-  - "← Volver al portal principal": https://avrilabg.github.io/portfolio/
 arrange:
   - index.md
-  - ut1/01- Iris dataset.md
+  - ut1
+  - ...
+nav:
+  - ... | flat
+  - "← Volver al portal principal": https://avrilabg.github.io/portfolio/
