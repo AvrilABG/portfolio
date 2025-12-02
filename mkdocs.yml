@@ -5,8 +5,6 @@ theme:
   language: es
   features:
     - navigation.sections
-    - navigation.indexes
-    - navigation.expand
   palette:
     - scheme: slate
       primary: "#1A237E"
