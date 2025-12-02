@@ -40,4 +40,4 @@ nav:
     - 'Acerca de mí': acerca.md
     - Portfolio: portfolio/index.md
     - Recursos: recursos.md
-  - 'Ingeniería de Datos': "!include ./idd/mkdocs.yml"
+  - 'Ingeniería de Datos': https://avrilabg.github.io/portfolio/ingenieria-de-datos/
