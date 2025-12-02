@@ -8,11 +8,8 @@ site_url: https://avrilabg.github.io/portfolio/ingenieria-de-datos/
 theme:
   name: material
   palette:
-    # 1. ESQUEMA DE COLOR: 'light' o 'slate' (oscuro)
-    - scheme: slate
-    # 2. COLOR PRIMARIO (Header, barra lateral)
+    - scheme: red
       primary: deep orange
-    # 3. COLOR ACCENTO (Links, botones)
       accent: light green
   features:
     - navigation.sections
