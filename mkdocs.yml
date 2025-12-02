@@ -35,9 +35,9 @@ extra_css:
   - css/extra.css
 
 nav:
-  - Inicio: index.md
-  - 'Acerca de mí': acerca.md
-  - Portfolio: portfolio/index.md
-  - Recursos: recursos.md
-  - 'Ingeniería de Datos':
-      file: idd/mkdocs.yml
+  - Pagina Principal:
+    - Inicio: index.md
+    - 'Acerca de mí': acerca.md
+    - Portfolio: portfolio/index.md
+    - Recursos: recursos.md
+  - 'Ingeniería de Datos': "!include ./idd/mkdocs.yml"
