@@ -8,8 +8,8 @@ theme:
     - navigation.indexes
   palette:
     - scheme: slate
-      primary: '#f09cac'
-      accent: '#DB5079'
+      primary: custom
+      accent: pink
   icon:
     logo: material/flower-tulip
 plugins:

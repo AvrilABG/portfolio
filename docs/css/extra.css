@@ -1,7 +1,20 @@
-.md-header {
-  background-color: #f1bdcc;
+/* Colores personalizados rosados */
+:root {
+  --md-primary-fg-color: #f09cac;
+  --md-primary-fg-color--light: #f5b5c3;
+  --md-primary-fg-color--dark: #e87a92;
+  --md-accent-fg-color: #DB5079;
+  --md-accent-fg-color--transparent: rgba(219, 80, 121, 0.1);
 }
 
-h1 {
-    color: red;
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #f09cac;
+  --md-primary-fg-color--light: #f5b5c3;
+  --md-primary-fg-color--dark: #e87a92;
+  --md-accent-fg-color: #DB5079;
+  --md-accent-fg-color--transparent: rgba(219, 80, 121, 0.1);
+}
+
+.md-header {
+  background-color: #f09cac !important;
 }
