@@ -7,8 +7,8 @@ theme:
     - navigation.sections
   palette:
     - scheme: slate
-      primary: "#1A237E"
-      accent: "#4FC3F7"
+      primary: "#f09cac"
+      accent: "#DB5079"
   icon:
     logo: material/flower-tulip
 plugins:

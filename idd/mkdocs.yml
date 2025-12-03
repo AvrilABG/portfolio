@@ -6,9 +6,9 @@ theme:
   name: material
   language: es
   palette:
-    - scheme: default
-      primary: deep orange
-      accent: light green
+    - scheme: slate
+      primary: "#1A237E"
+      accent: "#4FC3F7"
   features:
     - navigation.sections
     - navigation.indexes
