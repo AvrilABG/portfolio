@@ -1,5 +1,5 @@
 ---
-title: "Práctico 02: Eda Netflix con Visualizaciones"
+title: "Práctico 02: EDA Netflix con Visualizaciones"
 ---
 
 ## 🎬 Parte 1: Setup y Carga de Datos
