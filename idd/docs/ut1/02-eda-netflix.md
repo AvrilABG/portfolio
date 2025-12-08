@@ -786,7 +786,7 @@ Kids' TV                     328
 Stand-Up Comedy              281
 Name: count, dtype: int64
 ```
-![](/assets/ut1/2-10.png)
+![](../assets/ut1/2-10.png)
 ```output
 📊 ESTADÍSTICAS DE DURACIÓN:
    Película promedio: 99 minutos
