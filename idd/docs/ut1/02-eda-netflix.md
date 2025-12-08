@@ -180,7 +180,7 @@ date_added     0.176452
 rating         0.160411
 dtype: float64
 ```
-![](..\assets\ut1\2-3.png)
+![](/assets/ut1/2-3.png)
 
 ## 🔍 Paso 4: Detección de Valores Atípicos y Anomalías
 ```python
@@ -301,7 +301,7 @@ Ejemplos:
 89    5CM             3  Movie
 209   ARQ             3  Movie
 ```
-![](../assets/ut1/2-4.png)
+![](/assets/ut1/2-4.png)
 ```output
 ✅ Análisis de outliers completado!
 ```
@@ -362,7 +362,7 @@ Movie      68.415143
 TV Show    31.584857
 Name: proportion, dtype: float64
 ```
-![](../assets/ut1/2-5.png)
+![](/assets/ut1/2-5.png)
 
 ## 📅 Paso 6: Análisis Temporal
 ```python
@@ -416,7 +416,7 @@ plt.show()
 print("📅 AÑOS CON MÁS LANZAMIENTOS:")
 print(yearly_releases.tail(10))
 ```
-![](../assets/ut1/2-6.png)
+![](/assets/ut1/2-6.png)
 ```output
 📅 AÑOS CON MÁS LANZAMIENTOS:
 release_year
@@ -536,7 +536,7 @@ Brazil              66
 Thailand            56
 Name: count, dtype: int64
 ```
-![](../assets/ut1/2-7.png)
+![](/assets/ut1/2-7.png)
 
 ## 🎨 Paso 8: Análisis de Géneros y Ratings
 ```python
@@ -615,7 +615,7 @@ TV-G      149
 TV-Y      143
 Name: count, dtype: int64
 ```
-![](../assets/ut1/2-8.png)
+![](/assets/ut1/2-8.png)
 
 ## 📊 Paso 9: Dashboard Final
 ```python
@@ -699,7 +699,7 @@ print("\n✅ Dashboard guardado como 'netflix_dashboard.png'")
    Series: 1,969 (31.6%)
    Rango de años: 1925 - 2020
 ```
-![](../assets/ut1/2-9.png)
+![](/assets/ut1/2-9.png)
 ```output
 ✅ Dashboard guardado como 'netflix_dashboard.png'
 ```
@@ -786,7 +786,7 @@ Kids' TV                     328
 Stand-Up Comedy              281
 Name: count, dtype: int64
 ```
-![](../assets/ut1/2-10.png)
+![](/assets/ut1/2-10.png)
 ```output
 📊 ESTADÍSTICAS DE DURACIÓN:
    Película promedio: 99 minutos
