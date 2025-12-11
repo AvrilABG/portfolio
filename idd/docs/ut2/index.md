@@ -1,3 +1,7 @@
+---
+title: "Unidad 2: Preprocesamiento y Transformación"
+---
+
 # Unidad 2: Preprocesamiento y Transformación de Datos
 
 Esta unidad se enfoca en las técnicas esenciales de preprocesamiento de datos, un paso fundamental antes del modelado. Aprenderás a manejar datos faltantes, normalizar variables y detectar sesgos en tus datasets.

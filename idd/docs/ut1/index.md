@@ -1,3 +1,7 @@
+---
+title: "Unidad 1: Análisis Exploratorio de Datos"
+---
+
 # Unidad 1: Análisis Exploratorio de Datos (EDA)
 
 Esta unidad introduce los fundamentos del Análisis Exploratorio de Datos (EDA), una etapa crítica en cualquier proyecto de ciencia de datos. Aprenderás a inspeccionar, limpiar y visualizar conjuntos de datos para extraer insights significativos.

@@ -1,3 +1,7 @@
+---
+title: "Unidad 3: Feature Engineering Avanzado"
+---
+
 # Unidad 3: Feature Engineering Avanzado
 
 Esta unidad cubre técnicas avanzadas de ingeniería de características, esenciales para mejorar el rendimiento de modelos de Machine Learning. Aprenderás a crear, transformar y seleccionar features de manera estratégica.
